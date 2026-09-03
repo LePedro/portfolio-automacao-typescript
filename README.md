@@ -1,2 +1,2 @@
-# automa-o-em-typescript
+# automation-in-typescript
 Testes em typescript
