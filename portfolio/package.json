@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-automacao-typescript",
+  "version": "1.0.0",
+  "description": "Testes em typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LePedro/portfolio-automacao-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LePedro/portfolio-automacao-typescript/issues"
+  },
+  "homepage": "https://github.com/LePedro/portfolio-automacao-typescript#readme",
+  "devDependencies": {
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
