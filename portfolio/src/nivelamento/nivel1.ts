@@ -32,7 +32,7 @@ type livro = {'titulo': string, 'valor': number};
 let livro1: livro = {titulo: 'O Hobbit', valor: 50};
 
 function verificaPreco(livroAtual: livro) {
-    console.log (livroAtual.valor > 20 ? `O livro ${livroAtual.titulo} está custando ${livroAtual.valor}, muito caro não compre`
+    console.log (livroAtual.valor > 20 ? `O livro ${livroAtual.titulo} está custando ${livroAtual.valor} muito caro, não compre`
         : `O livro ${livroAtual.titulo} está custando ${livroAtual.valor}, tá barato pode dale`
     );
 }
