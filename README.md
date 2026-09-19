@@ -1,2 +1,2 @@
 # automation-in-typescript
-Testes em typescript
+Prática de testes em typescript
